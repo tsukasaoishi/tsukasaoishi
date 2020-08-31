@@ -1,8 +1,9 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tsukasaoishi)
-
----
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasaoishi)
+<a href="https://github.com/tsukasaoishi?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tsukasaoishi" />
+</a>
+<a href="https://github.com/tsukasaoishi?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasaoishi" />
+</a>
 
 ---
 
