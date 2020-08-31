@@ -4,4 +4,4 @@
   - [RubyKaigi2009 LT](http://rubykaigi.org/2009/ja/talks/17H14/)
 - 👯 My Writing
   - [Reactor pattern (gihyo,jp)](https://gihyo.jp/dev/serial/01/ruby/0030)
-- ⚡ [Tabelog](https://tabelog.com/) SRE Engineer
+- 🥢 [Tabelog](https://tabelog.com/) SRE Engineer
