@@ -1,2 +1,1 @@
 - 🔭 My Blog is [kaeruspoon](https://www.kaeruspoon.net/)
-- 🥢 [Tabelog](https://tabelog.com/) SRE Engineer
