@@ -1,2 +1,2 @@
-- 🔭 My Blog is [kaeruspoon](https://www.kaeruspoon.net/)
+- 🔭 My Blog is [kaeruspoon](https://kaeruspoon.net/)
 - [Ubie, Inc.](https://ubie.life/)
